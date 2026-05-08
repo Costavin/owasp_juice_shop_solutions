@@ -1,2 +1,4 @@
-# owasp_juice_shop_solutions
+# OWASP Juice Shop Solutions
 This repository will collect the solutions related to the juice shop app
+
+
