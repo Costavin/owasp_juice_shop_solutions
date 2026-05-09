@@ -4,10 +4,10 @@ This repository will collect the solutions related to the juice shop app
 **Table of Contents**
 
 ## [Broken Access Control](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Broken%20Access%20Control)
-### [Easter Egg](Broken Access Control/easter_egg.md)
+### [Easter Egg](Broken%20Access%20Control/easter_egg.md)
 
 ## [Improper Input Validation](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Improper%20Input%20Validation)
-### [Poison Null Byte](Improper Input Validation/poison_null_byte.md)
+### [Poison Null Byte](Improper%20Input%20Validation/poison_null_byte.md)
 
 ## [Injection](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Injection)
 ### [Login Admin](Injection/login_admin.md)
