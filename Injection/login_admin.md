@@ -1,4 +1,4 @@
-# Login Admin
+# Login Admin   -   &#9733; &#9733;
 
 Since we don't know the password for the administrator account, we can try with some SQLi!
 By looking around in the main page, we can notice that an account named admin@juice-sh.op left some reviews here and there.

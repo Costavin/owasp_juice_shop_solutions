@@ -1,4 +1,4 @@
-# Score Board
+# Score Board   -   &#9733;
 
 It can be checked if in the html there is some sign of the score board. From the command line, it can be check the output of the following command.
 
