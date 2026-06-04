@@ -1,3 +1,3 @@
-# Password Hash Leak    -   &#9733; &#9733;
+# Password Hash Leak
 
 From the sources it can be easily found all the `/rest/` endpoints. One easily pop up on our eyes, that is `/rest/user/whoami`. As the the name hints, it should return the current user that questions this endpoint (if we remember to include the JWT token in the cookies). We can also notices that this endpoint gets interrogated with argument `?fields=email` when an user tires to login. If, instead of email, we ask for the `id`, it gets back the id. Without arguments, we get a list of values, such as id, email, etc., but no passwords or hashes. But what if we nicely ask for it? We can try with the following payload `/rest/user/whoami?fields=password`.

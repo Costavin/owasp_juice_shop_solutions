@@ -1,4 +1,4 @@
-# Forgotten Sales Backup    -   &#9733; &#9733; &#9733; &#9733;
+# Forgotten Sales Backup
 
 In the directory `ftp`, by mean of poison null byte techinique, some sale backup files can be exfiltrated.
 

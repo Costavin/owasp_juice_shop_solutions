@@ -1,4 +1,4 @@
-# Security Policy   -   &#9733; &#9733;
+# Security Policy
 
 Accessing the security policy which usually it is found under the directory `.well-known/security.txt`
 
