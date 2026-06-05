@@ -70,28 +70,28 @@ This repository will collect the solutions related to the juice shop app
 
 
 ## [XSS](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/XSS)
-### [Bonus Payload](Miscellaneous/bonus_payload.md) -   &#9733;
-### [DOM XSS](Miscellaneous/dom_xss.md)   -   &#9733;
+### [Bonus Payload](XSS/bonus_payload.md) -   &#9733;
+### [DOM XSS](XSS/dom_xss.md)   -   &#9733;
 
 
 ## [Unvalidated Redirects](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Unvalidated%20Redirects)
-### [Outdated Allowlist](Miscellaneous/outdated_allowlist.md) -   &#9733;
+### [Outdated Allowlist](Unvalidated%20Redirects/outdated_allowlist.md) -   &#9733;
 
 
 ## [Cryptographic Issues](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Cryptographic%20Issues)
-### [Weird Crypto](Miscellaneous/weird_crypto.md)   -   &#9733; &#9733;
-### [Nested Easter Egg](Miscellaneous/nested_easter_egg.md) -   &#9733; &#9733; &#9733; &#9733;
+### [Weird Crypto](Cryptographic%20Issues/weird_crypto.md)   -   &#9733; &#9733;
+### [Nested Easter Egg](Cryptographic%20Issues/nested_easter_egg.md) -   &#9733; &#9733; &#9733; &#9733;
 
 
 ## [Broken Authentication](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Broken%20Authentication)
-### [Password Strength](Miscellaneous/password_strength.md)   -   &#9733; &#9733;
-### [GDPR Data Erasure](Miscellaneous/gdpr_data_erasure.md) -   &#9733; &#9733; &#9733;
-### [Bjoern's Favourite Pet](Miscellaneous/reset_bjoern.md) -   &#9733; &#9733; &#9733;
-### [Reset Jim's Password](Miscellaneous/reset_jim.md) -   &#9733; &#9733; &#9733;
-### [Reset Bender's Password](Miscellaneous/reset_bender.md) -   &#9733; &#9733; &#9733; &#9733;
+### [Password Strength](Broken%20Authentication/password_strength.md)   -   &#9733; &#9733;
+### [GDPR Data Erasure](Broken%20Authentication/gdpr_data_erasure.md) -   &#9733; &#9733; &#9733;
+### [Bjoern's Favourite Pet](Broken%20Authentication/reset_bjoern.md) -   &#9733; &#9733; &#9733;
+### [Reset Jim's Password](Broken%20Authentication/reset_jim.md) -   &#9733; &#9733; &#9733;
+### [Reset Bender's Password](Broken%20Authentication//reset_bender.md) -   &#9733; &#9733; &#9733; &#9733;
 
 
 ## [Broken Anti Automation](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Broken%20Anti%20Automation)
-### [Captcha Bypass](Miscellaneous/captcha_bypass.md) -   &#9733; &#9733; &#9733;
+### [Captcha Bypass](Broken%20Anti%20Automation/captcha_bypass.md) -   &#9733; &#9733; &#9733;
 
 
