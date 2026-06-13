@@ -10,6 +10,7 @@ This repository will collect the solutions related to the juice shop app
 ### [Admin Section](Broken%20Access%20Control/admin_section.md) -   &#9733; &#9733;
 ### [Forged Feedback](Broken%20Access%20Control/forged_feedback.md) -   &#9733; &#9733; &#9733;
 ### [Forged Review](Broken%20Access%20Control/forged_review.md) -   &#9733; &#9733; &#9733;
+### [Manipulate Basket](Broken%20Access%20Control/manipulate_basket.md) -   &#9733; &#9733; &#9733;
 ### [Easter Egg](Broken%20Access%20Control/easter_egg.md)   -   &#9733; &#9733; &#9733; &#9733;
 
 
@@ -24,6 +25,7 @@ This repository will collect the solutions related to the juice shop app
 ### [Upload Size](Improper%20Input%20Validation/upload_size.md)   -   &#9733; &#9733; &#9733;
 ### [Upload Type](Improper%20Input%20Validation/upload_type.md)   -   &#9733; &#9733; &#9733;
 ### [Poison Null Byte](Improper%20Input%20Validation/poison_null_byte.md)   -   &#9733; &#9733; &#9733; &#9733;
+### [Expired Coupon](Improper%20Input%20Validation/expired_coupon.md)   -   &#9733; &#9733; &#9733; &#9733;
 
 
 ## [Injection](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Injection)
@@ -34,6 +36,7 @@ This repository will collect the solutions related to the juice shop app
 ### [Christmas Special](Injection/christmas_special.md) -   &#9733; &#9733; &#9733; &#9733;
 ### [Ephemeral Accountant](Injection/ephemeral_accountant.md) -   &#9733; &#9733; &#9733; &#9733;
 ### [User Credentials](Injection/user_credentials.md) -   &#9733; &#9733; &#9733; &#9733;
+### [NoSQL Manipulation](Injection/nosql_manipulation.md) -   &#9733; &#9733; &#9733; &#9733;
 
 
 ## [Miscellaneus](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Miscellaneous)
@@ -47,6 +50,8 @@ This repository will collect the solutions related to the juice shop app
 ## [Observability Failures](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Observability%20Failures)
 ### [Exposed Metrics](Observability%20Failures/exposed_metrics.md)  -   &#9733;
 ### [Misplaced Signature File](Observability%20Failures/misplaced_signature_file.md)    -   &#9733; &#9733; &#9733; &#9733;
+### [Access Log](Observability%20Failures/access_log.md)    -   &#9733; &#9733; &#9733; &#9733;
+### [Leaked Access Logs](Observability%20Failures/leaked_access_logs.md)    -   &#9733; &#9733; &#9733; &#9733; &#9733;
 
 
 ## [Security Misconfiguration](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Security%20Misconfiguration)
@@ -64,9 +69,11 @@ This repository will collect the solutions related to the juice shop app
 ### [NFT Takeover](Sensitive%20Data%20Exposure/nft_takeover.md)   -   &#9733; &#9733;
 ### [Password Hash Leak](Sensitive%20Data%20Exposure/password_hash_leak.md)   -   &#9733; &#9733;
 ### [Visual Geo STalking](Sensitive%20Data%20Exposure/visual_geo_stalking.md)   -   &#9733; &#9733;
+### [Login Amy](Sensitive%20Data%20Exposure/login_amy.md) -  &#9733; &#9733; &#9733;
 ### [Forgotten Developer Backup](Sensitive%20Data%20Exposure/forgotten_developer_backup.md) -   &#9733; &#9733; &#9733; &#9733;
 ### [Forgotten Sales Backup](Sensitive%20Data%20Exposure/forgotten_sales_backup.md) -   &#9733; &#9733; &#9733; &#9733;
 ### [Leaked Unsafe Product](Sensitive%20Data%20Exposure/leaked_unsafe_product.md) -   &#9733; &#9733; &#9733; &#9733;
+### [Reset Uvogin's Password](Sensitive%20Data%20Exposure/reset_uvogin.md) -   &#9733; &#9733; &#9733; &#9733;
 
 
 ## [XSS](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/XSS)
@@ -93,5 +100,5 @@ This repository will collect the solutions related to the juice shop app
 
 ## [Broken Anti Automation](https://github.com/Costavin/owasp_juice_shop_solutions/tree/main/Broken%20Anti%20Automation)
 ### [Captcha Bypass](Broken%20Anti%20Automation/captcha_bypass.md) -   &#9733; &#9733; &#9733;
-
-
+### [Extra Language](Broken%20Anti%20Automation/extra_language.md) -   &#9733; &#9733; &#9733; &#9733; &#9733;
+### [Multiple Likes](Broken%20Anti%20Automation/multiple_likes.md) -   &#9733; &#9733; &#9733; &#9733; &#9733; &#9733;  
